@@ -1,0 +1,49 @@
+C:\Users\Zere\OneDrive\Documentos\GitHub\Sistema Hotelero\Sistema Hotelero\bin\Debug\Sistema Hotelero.exe.config
+C:\Users\Zere\OneDrive\Documentos\GitHub\Sistema Hotelero\Sistema Hotelero\bin\Debug\Sistema Hotelero.exe
+C:\Users\Zere\OneDrive\Documentos\GitHub\Sistema Hotelero\Sistema Hotelero\bin\Debug\Sistema Hotelero.pdb
+C:\Users\Zere\OneDrive\Documentos\GitHub\Sistema Hotelero\Sistema Hotelero\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Zere\OneDrive\Documentos\GitHub\Sistema Hotelero\Sistema Hotelero\bin\Debug\DayPilot.dll
+C:\Users\Zere\OneDrive\Documentos\GitHub\Sistema Hotelero\Sistema Hotelero\bin\Debug\Google.Protobuf.dll
+C:\Users\Zere\OneDrive\Documentos\GitHub\Sistema Hotelero\Sistema Hotelero\bin\Debug\itextsharp.dll
+C:\Users\Zere\OneDrive\Documentos\GitHub\Sistema Hotelero\Sistema Hotelero\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Zere\OneDrive\Documentos\GitHub\Sistema Hotelero\Sistema Hotelero\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Zere\OneDrive\Documentos\GitHub\Sistema Hotelero\Sistema Hotelero\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Zere\OneDrive\Documentos\GitHub\Sistema Hotelero\Sistema Hotelero\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Zere\OneDrive\Documentos\GitHub\Sistema Hotelero\Sistema Hotelero\bin\Debug\MySql.Data.dll
+C:\Users\Zere\OneDrive\Documentos\GitHub\Sistema Hotelero\Sistema Hotelero\bin\Debug\System.Buffers.dll
+C:\Users\Zere\OneDrive\Documentos\GitHub\Sistema Hotelero\Sistema Hotelero\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Zere\OneDrive\Documentos\GitHub\Sistema Hotelero\Sistema Hotelero\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Zere\OneDrive\Documentos\GitHub\Sistema Hotelero\Sistema Hotelero\bin\Debug\System.Memory.dll
+C:\Users\Zere\OneDrive\Documentos\GitHub\Sistema Hotelero\Sistema Hotelero\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Zere\OneDrive\Documentos\GitHub\Sistema Hotelero\Sistema Hotelero\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Zere\OneDrive\Documentos\GitHub\Sistema Hotelero\Sistema Hotelero\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Zere\OneDrive\Documentos\GitHub\Sistema Hotelero\Sistema Hotelero\bin\Debug\ZstdSharp.dll
+C:\Users\Zere\OneDrive\Documentos\GitHub\Sistema Hotelero\Sistema Hotelero\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Zere\OneDrive\Documentos\GitHub\Sistema Hotelero\Sistema Hotelero\bin\Debug\Google.Protobuf.pdb
+C:\Users\Zere\OneDrive\Documentos\GitHub\Sistema Hotelero\Sistema Hotelero\bin\Debug\Google.Protobuf.xml
+C:\Users\Zere\OneDrive\Documentos\GitHub\Sistema Hotelero\Sistema Hotelero\bin\Debug\itextsharp.xml
+C:\Users\Zere\OneDrive\Documentos\GitHub\Sistema Hotelero\Sistema Hotelero\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Zere\OneDrive\Documentos\GitHub\Sistema Hotelero\Sistema Hotelero\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Zere\OneDrive\Documentos\GitHub\Sistema Hotelero\Sistema Hotelero\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Zere\OneDrive\Documentos\GitHub\Sistema Hotelero\Sistema Hotelero\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Zere\OneDrive\Documentos\GitHub\Sistema Hotelero\Sistema Hotelero\bin\Debug\MySql.Data.xml
+C:\Users\Zere\OneDrive\Documentos\GitHub\Sistema Hotelero\Sistema Hotelero\bin\Debug\System.Buffers.xml
+C:\Users\Zere\OneDrive\Documentos\GitHub\Sistema Hotelero\Sistema Hotelero\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Zere\OneDrive\Documentos\GitHub\Sistema Hotelero\Sistema Hotelero\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Zere\OneDrive\Documentos\GitHub\Sistema Hotelero\Sistema Hotelero\bin\Debug\System.Memory.xml
+C:\Users\Zere\OneDrive\Documentos\GitHub\Sistema Hotelero\Sistema Hotelero\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Zere\OneDrive\Documentos\GitHub\Sistema Hotelero\Sistema Hotelero\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Zere\OneDrive\Documentos\GitHub\Sistema Hotelero\Sistema Hotelero\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Zere\OneDrive\Documentos\GitHub\Sistema Hotelero\Sistema Hotelero\obj\Debug\Sistema Hotelero.csproj.AssemblyReference.cache
+C:\Users\Zere\OneDrive\Documentos\GitHub\Sistema Hotelero\Sistema Hotelero\obj\Debug\Sistema_Hotelero.Form1.resources
+C:\Users\Zere\OneDrive\Documentos\GitHub\Sistema Hotelero\Sistema Hotelero\obj\Debug\Sistema_Hotelero.Formularios.FormHuespedAdicional.resources
+C:\Users\Zere\OneDrive\Documentos\GitHub\Sistema Hotelero\Sistema Hotelero\obj\Debug\Sistema_Hotelero.FormNuevaReserva.resources
+C:\Users\Zere\OneDrive\Documentos\GitHub\Sistema Hotelero\Sistema Hotelero\obj\Debug\Sistema_Hotelero.Properties.Resources.resources
+C:\Users\Zere\OneDrive\Documentos\GitHub\Sistema Hotelero\Sistema Hotelero\obj\Debug\Sistema Hotelero.csproj.GenerateResource.cache
+C:\Users\Zere\OneDrive\Documentos\GitHub\Sistema Hotelero\Sistema Hotelero\obj\Debug\Sistema Hotelero.csproj.CoreCompileInputs.cache
+C:\Users\Zere\OneDrive\Documentos\GitHub\Sistema Hotelero\Sistema Hotelero\obj\Debug\Sistema .E8691068.Up2Date
+C:\Users\Zere\OneDrive\Documentos\GitHub\Sistema Hotelero\Sistema Hotelero\obj\Debug\Sistema Hotelero.exe
+C:\Users\Zere\OneDrive\Documentos\GitHub\Sistema Hotelero\Sistema Hotelero\obj\Debug\Sistema Hotelero.pdb
+C:\Users\Zere\OneDrive\Documentos\GitHub\Sistema Hotelero\Sistema Hotelero\obj\Debug\Sistema_Hotelero.Formularios.FormEditarReserva.resources
+C:\Users\Zere\OneDrive\Documentos\GitHub\Sistema Hotelero\Sistema Hotelero\obj\Debug\Sistema_Hotelero.Formularios.FormEmpleado.resources
+C:\Users\Zere\OneDrive\Documentos\GitHub\Sistema Hotelero\Sistema Hotelero\obj\Debug\Sistema_Hotelero.Formularios.FormIngresoEgreso.resources
